@@ -8,7 +8,8 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
-      <h1 className="w-[124px] h-[32px] text-white font-poppins text-4xl text-cyan-200 italic hover:not-italic " >RoboBank</h1>
+      <h1 className=" text-4xl font-bold text-cyan-400 " >Robo</h1>
+      <span className=" text-4xl font-semibold text-cyan-300 ">Bank</span>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (

@@ -49,7 +49,7 @@ export const feedback = [
     content:
     "Money is like a sixth sense without which you cannot make a complete use of the other five.",
     name: "Rayhan Uddin Bhuiyan",
-    title: "Founder & Leader",
+    title: "Founder & CEO",
     img: people01,
   },
   {
@@ -57,7 +57,7 @@ export const feedback = [
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
     name: "Arham Uddin",
-    title: "Founder & Leader",
+    title: "Marketing Manager",
     img: people02,
   },
   {
@@ -65,14 +65,14 @@ export const feedback = [
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Tamanna Amrin",
-    title: "Founder & Leader",
+    title: "Content Writer",
   },
   {
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Monisa Biswas",
-    title: "Founder & Leader"
+    title: "Content Writer"
   }
 ];
 
@@ -169,7 +169,7 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/rayhan.meheraj/",
   },
   {
     id: "social-media-3",
